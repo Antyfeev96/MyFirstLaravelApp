@@ -1,4 +1,8 @@
 {
+    "name": "Dmitri Antyufeev",
+    "description": "My first Laravel App",
+    "homepage": "https://github.com/Antyfeev96/MyFirstLaravelApp",
+    "version": "0.1.0",
     "private": true,
     "scripts": {
         "dev": "npm run development",
